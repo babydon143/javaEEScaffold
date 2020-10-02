@@ -1,4 +1,4 @@
-#JavaEEScaffold-----java web 脚手架搭建(用户角色权限管理系统)
+#JavaEEScaffold-----java-web 脚手架搭建(用户角色权限管理系统)
 ##项目地址
 [JavaEEScaffold](https://github.com/Vino007/javaEEScaffold)
 用户名：admin
